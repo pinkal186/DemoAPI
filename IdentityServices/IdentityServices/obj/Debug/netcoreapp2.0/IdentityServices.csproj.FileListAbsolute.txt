@@ -1,0 +1,11 @@
+D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\bin\Debug\netcoreapp2.0\IdentityServices.deps.json
+D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\bin\Debug\netcoreapp2.0\IdentityServices.runtimeconfig.json
+D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\bin\Debug\netcoreapp2.0\IdentityServices.runtimeconfig.dev.json
+D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\bin\Debug\netcoreapp2.0\IdentityServices.dll
+D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.csprojResolveAssemblyReference.cache
+D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.csproj.CoreCompileInputs.cache
+D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.AssemblyInfoInputs.cache
+D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.AssemblyInfo.cs
+D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\bin\Debug\netcoreapp2.0\IdentityServices.pdb
+D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.dll
+D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.pdb

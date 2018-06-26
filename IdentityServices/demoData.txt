@@ -1,0 +1,10 @@
+
+http://localhost:61234/
+http://localhost:61234/connect/token
+
+grant_type:password
+username:vivek
+password:password
+client_id:client
+client_secret:secret
+scope:api1

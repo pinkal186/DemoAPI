@@ -1,0 +1,8 @@
+D:\Pinkal\Civica\test\Demo\IdentityServices\DemoApi\bin\Debug\netcoreapp2.0\DemoApi.deps.json
+D:\Pinkal\Civica\test\Demo\IdentityServices\DemoApi\bin\Debug\netcoreapp2.0\DemoApi.runtimeconfig.json
+D:\Pinkal\Civica\test\Demo\IdentityServices\DemoApi\bin\Debug\netcoreapp2.0\DemoApi.runtimeconfig.dev.json
+D:\Pinkal\Civica\test\Demo\IdentityServices\DemoApi\bin\Debug\netcoreapp2.0\DemoApi.dll
+D:\Pinkal\Civica\test\Demo\IdentityServices\DemoApi\obj\Debug\netcoreapp2.0\DemoApi.csprojResolveAssemblyReference.cache
+D:\Pinkal\Civica\test\Demo\IdentityServices\DemoApi\obj\Debug\netcoreapp2.0\DemoApi.csproj.CoreCompileInputs.cache
+D:\Pinkal\Civica\test\Demo\IdentityServices\DemoApi\obj\Debug\netcoreapp2.0\DemoApi.AssemblyInfoInputs.cache
+D:\Pinkal\Civica\test\Demo\IdentityServices\DemoApi\obj\Debug\netcoreapp2.0\DemoApi.AssemblyInfo.cs
