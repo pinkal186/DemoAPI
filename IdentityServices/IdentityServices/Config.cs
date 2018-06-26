@@ -20,20 +20,43 @@ namespace IdentityServices
         public static IEnumerable<Client> GetClients()
         {
             return new List<Client>
+        {
+            new Client
             {
-
-                new Client
+                ClientId = "google",
+                ClientSecrets =
                 {
-                    ClientId = "client",
-                    AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
-
-                    ClientSecrets =
-                    {
-                        new Secret("secret".Sha256())
-                    },
-                    AllowedScopes = { "api1" }
+                    new Secret("secret".Sha256())
+                },
+               // AllowedGrantTypes = GrantTypes.List("googleAuth"),
+                AllowedGrantTypes =
+                        {
+                            GrantType.Hybrid,
+                            GrantType.ClientCredentials,
+                            "googleAuth"
+                        },
+            AllowedScopes =
+                {
+                   "offline_access",
+                    "api1"
                 }
-            };
+            },
+            new Client
+            {
+                ClientId = "client",
+                ClientSecrets =
+                {
+                    new Secret("secret".Sha256())
+                },
+                AllowedGrantTypes = GrantTypes.ResourceOwnerPassword,
+
+                AllowedScopes =
+                {
+                    "offline_access",
+                    "api1"
+                }
+            }
+        };
         }
 
 

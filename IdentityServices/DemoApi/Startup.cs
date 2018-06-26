@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using IdentityServer4.AccessTokenValidation;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -25,6 +26,19 @@ namespace DemoApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+
+            services.AddAuthentication(options =>
+            {
+                options.DefaultAuthenticateScheme =
+                                           JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme =
+                                           JwtBearerDefaults.AuthenticationScheme;
+            }).AddJwtBearer(o =>
+            {
+                o.Authority = "http://localhost:5000";
+                o.Audience = "apiApp";
+                o.RequireHttpsMetadata = false;
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -32,13 +46,13 @@ namespace DemoApi
         {
             app.UseAuthentication();
 
-            app.UseIdentityServerAuthentication(new IdentityServerAuthenticationOptions
-            {
-                Authority = "http://localhost:5000",
-                RequireHttpsMetadata = false,
+            //app.UseIdentityServerAuthentication(new IdentityServerAuthenticationOptions
+            //{
+            //    Authority = "http://localhost:5000",
+            //    RequireHttpsMetadata = false,
 
-                ApiName = "api1"
-            });
+            //    ApiName = "api1"
+            //});
 
             if (env.IsDevelopment())
             {

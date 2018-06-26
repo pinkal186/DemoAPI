@@ -9,3 +9,14 @@ D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\obj\Debug\netcoreap
 D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\bin\Debug\netcoreapp2.0\IdentityServices.pdb
 D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.dll
 D:\Pinkal\Civica\test\Demo\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.pdb
+C:\Users\pxp\Documents\GitHub\DemoAPI\IdentityServices\IdentityServices\bin\Debug\netcoreapp2.0\IdentityServices.deps.json
+C:\Users\pxp\Documents\GitHub\DemoAPI\IdentityServices\IdentityServices\bin\Debug\netcoreapp2.0\IdentityServices.runtimeconfig.json
+C:\Users\pxp\Documents\GitHub\DemoAPI\IdentityServices\IdentityServices\bin\Debug\netcoreapp2.0\IdentityServices.runtimeconfig.dev.json
+C:\Users\pxp\Documents\GitHub\DemoAPI\IdentityServices\IdentityServices\bin\Debug\netcoreapp2.0\IdentityServices.dll
+C:\Users\pxp\Documents\GitHub\DemoAPI\IdentityServices\IdentityServices\bin\Debug\netcoreapp2.0\IdentityServices.pdb
+C:\Users\pxp\Documents\GitHub\DemoAPI\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.csprojAssemblyReference.cache
+C:\Users\pxp\Documents\GitHub\DemoAPI\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.csproj.CoreCompileInputs.cache
+C:\Users\pxp\Documents\GitHub\DemoAPI\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.AssemblyInfoInputs.cache
+C:\Users\pxp\Documents\GitHub\DemoAPI\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.AssemblyInfo.cs
+C:\Users\pxp\Documents\GitHub\DemoAPI\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.dll
+C:\Users\pxp\Documents\GitHub\DemoAPI\IdentityServices\IdentityServices\obj\Debug\netcoreapp2.0\IdentityServices.pdb

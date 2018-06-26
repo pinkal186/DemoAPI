@@ -5406,7 +5406,7 @@
     "System.Diagnostics.FileVersionInfo/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-omCF64wzQ3Q2CeIqkD6lmmxeMZtGHUmzgFMPjfVaOsyqpR66p/JaZzManMw1s33osoAb5gqpncsjie67+yUPHQ==",
+      "sha512": "sha512-uo57sgcssfISPyixzAdY/eWQGCIntqudAQC5Eur/6yRQmHB3+c6fOsH4hNmmkaiP83LhZZlJPJ0CVX36Ktk/VA==",
       "path": "system.diagnostics.fileversioninfo/4.3.0",
       "hashPath": "system.diagnostics.fileversioninfo.4.3.0.nupkg.sha512"
     },
@@ -5924,14 +5924,14 @@
     "System.Xml.XPath/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-v1JQ5SETnQusqmS3RwStF7vwQ3L02imIzl++sewmt23VGygix04pEH+FCj1yWb+z4GDzKiljr1W7Wfvrx0YwgA==",
+      "sha512": "sha512-HTHRjKxrCgDriD2girZrC8sWrpC7NQgjRlMPVL/Iv45FxVCJZmo5L/zIwxmI2LqFfQpQdFzCJiUU47z0gaFEQA==",
       "path": "system.xml.xpath/4.3.0",
       "hashPath": "system.xml.xpath.4.3.0.nupkg.sha512"
     },
     "System.Xml.XPath.XDocument/4.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-jw9oHHEIVW53mHY9PgrQa98Xo2IZ0ZjrpdOTmtvk+Rvg4tq7dydmxdNqUvJ5YwjDqhn75mBXWttWjiKhWP53LQ==",
+      "sha512": "sha512-0vRctHVtuaJ03AWT4aeHzNQJtHv+/MRgAHc7pR0eWvQcj78Fg5CtCqsaDxv/VRPlEwTRwbbBV8Ugj1K8Ab64wA==",
       "path": "system.xml.xpath.xdocument/4.3.0",
       "hashPath": "system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
     },

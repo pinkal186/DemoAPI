@@ -10,18 +10,26 @@ namespace DemoApi.Controllers
     [Route("api/[controller]")]
     public class ValuesController : Controller
     {
-        //// GET api/values
-        //[HttpGet]
-        //public IEnumerable<string> Get()
-        //{
-        //    return new string[] { "value1", "value2" };
-        //}
-
-        [Authorize]
+        // GET api/values
         [HttpGet]
-        public IActionResult Get()
+        public IEnumerable<string> Get()
         {
-            return new JsonResult(User.Identity.IsAuthenticated);
+            return new string[] { "value1", "value2" };
         }
+
+        // GET api/values/5
+        [Authorize]
+        [HttpGet("{id}")]
+        public string Get(int id)
+        {
+            return "value";
+        }
+
+        //[Authorize]
+        //[HttpGet]
+        //public IActionResult Get()
+        //{
+        //    return new JsonResult(User.Identity.IsAuthenticated);
+        //}
     }
 }

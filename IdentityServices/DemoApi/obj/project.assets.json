@@ -6860,7 +6860,7 @@
       ]
     },
     "Microsoft.IdentityModel.Logging/1.1.4": {
-      "sha512": "j7t22EsDOuo0IXqAbp6ijdB1GuaY8cu3YoPNZpymOhUMTVC+wRTV0IHqxL31HacCnJHU/igsqe70fDKZgZu3oA==",
+      "sha512": "+Od3RsptPrICME62HfXE9X1RIDBTW7J9VuCjWvLLQIx19wrUy2amTjPRdoixTWR/g4COrG9xbmDBBhmw1ZZAHw==",
       "type": "package",
       "path": "microsoft.identitymodel.logging/1.1.4",
       "files": [
@@ -6905,7 +6905,7 @@
       ]
     },
     "Microsoft.IdentityModel.Tokens/5.1.4": {
-      "sha512": "SsJbZVPvjSlKFDAQmR2wpL6ZD/vCFlIsf0jxRlBJwyzKXZy3Wi/Xo+fE2MzAerLsJgG1UCdtplRwqDyq1euayw==",
+      "sha512": "9Jv2w56+7rqSPEYRvqr/wNN1nwX6Oz8z3uYMskZjNWldQ2SDpT+itYFxIwDrhp0IRJuztuPo2OBbeQnJhKBajQ==",
       "type": "package",
       "path": "microsoft.identitymodel.tokens/5.1.4",
       "files": [
@@ -8612,7 +8612,7 @@
       ]
     },
     "System.Diagnostics.FileVersionInfo/4.3.0": {
-      "sha512": "omCF64wzQ3Q2CeIqkD6lmmxeMZtGHUmzgFMPjfVaOsyqpR66p/JaZzManMw1s33osoAb5gqpncsjie67+yUPHQ==",
+      "sha512": "uo57sgcssfISPyixzAdY/eWQGCIntqudAQC5Eur/6yRQmHB3+c6fOsH4hNmmkaiP83LhZZlJPJ0CVX36Ktk/VA==",
       "type": "package",
       "path": "system.diagnostics.fileversioninfo/4.3.0",
       "files": [
@@ -9043,7 +9043,7 @@
       ]
     },
     "System.IdentityModel.Tokens.Jwt/5.1.4": {
-      "sha512": "hLUU1N99aL9uyxiTraBnCKlpUKsbP/+5ygD7cswspH9/+M7fAAL0hRzt2aA4w7VEQlSSiu8j+xWFk3NRcqhfQQ==",
+      "sha512": "jKkd+lCejaYvv5/BvLIpNeQ2LzRE+tDbPyOM6wd39Wx0V+3nSiYN5BxFmOk29RsLUWcIy5O9FMGD5pweUcoMvg==",
       "type": "package",
       "path": "system.identitymodel.tokens.jwt/5.1.4",
       "files": [
@@ -12257,7 +12257,7 @@
       ]
     },
     "System.Xml.XPath/4.3.0": {
-      "sha512": "v1JQ5SETnQusqmS3RwStF7vwQ3L02imIzl++sewmt23VGygix04pEH+FCj1yWb+z4GDzKiljr1W7Wfvrx0YwgA==",
+      "sha512": "HTHRjKxrCgDriD2girZrC8sWrpC7NQgjRlMPVL/Iv45FxVCJZmo5L/zIwxmI2LqFfQpQdFzCJiUU47z0gaFEQA==",
       "type": "package",
       "path": "system.xml.xpath/4.3.0",
       "files": [
@@ -12294,7 +12294,7 @@
       ]
     },
     "System.Xml.XPath.XDocument/4.3.0": {
-      "sha512": "jw9oHHEIVW53mHY9PgrQa98Xo2IZ0ZjrpdOTmtvk+Rvg4tq7dydmxdNqUvJ5YwjDqhn75mBXWttWjiKhWP53LQ==",
+      "sha512": "0vRctHVtuaJ03AWT4aeHzNQJtHv+/MRgAHc7pR0eWvQcj78Fg5CtCqsaDxv/VRPlEwTRwbbBV8Ugj1K8Ab64wA==",
       "type": "package",
       "path": "system.xml.xpath.xdocument/4.3.0",
       "files": [
@@ -12361,26 +12361,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lenovo\\.nuget\\packages\\": {},
+    "C:\\Users\\pxp\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "D:\\Pinkal\\Civica\\test\\Demo\\IdentityServices\\DemoApi\\DemoApi.csproj",
+      "projectUniqueName": "C:\\Users\\pxp\\Documents\\GitHub\\DemoAPI\\IdentityServices\\DemoApi\\DemoApi.csproj",
       "projectName": "DemoApi",
-      "projectPath": "D:\\Pinkal\\Civica\\test\\Demo\\IdentityServices\\DemoApi\\DemoApi.csproj",
-      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Pinkal\\Civica\\test\\Demo\\IdentityServices\\DemoApi\\obj\\",
+      "projectPath": "C:\\Users\\pxp\\Documents\\GitHub\\DemoAPI\\IdentityServices\\DemoApi\\DemoApi.csproj",
+      "packagesPath": "C:\\Users\\pxp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pxp\\Documents\\GitHub\\DemoAPI\\IdentityServices\\DemoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pxp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
