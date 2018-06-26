@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-
+//https://www.linkedin.com/pulse/securing-net-core-web-api-identityserver4-using-owner-dalvandi?published=t
 namespace IdentityServices
 {
     public class Startup
